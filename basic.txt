@@ -1,0 +1,34 @@
+git - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+git push -> copying file local to remote repository
+git pull - copying the file remote repository to local repository 
+
+
+
+
+
+git config --global user.name "username"
+git config --global user.email "email"
+
+git clone
+
+create file [touch f1]
+ls
+
+git status
+git add .
+git commit -m "..."
+git push 
+
